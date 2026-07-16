@@ -1,0 +1,16 @@
+# 本地库（通过 Arduino Library Manager 或手动安装）
+libraries/
+
+# 编译输出
+build/
+*.o
+*.elf
+*.hex
+*.bin
+
+# IDE 临时文件
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
